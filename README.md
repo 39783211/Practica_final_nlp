@@ -1,3 +1,5 @@
+# Nota: Los notebooks fueron desarrollados y ejecutados en Google Colab utilizando integración con Google Drive para persistencia de datos.
+
 # Práctica Final NLP
 
 Proyecto de análisis de sentimiento utilizando reviews de productos musicales de Amazon.
