@@ -1,4 +1,4 @@
-# Nota: Los notebooks fueron desarrollados y ejecutados en Google Colab utilizando integración con Google Drive para persistencia de datos.
+# Nota: Los notebooks fueron desarrollados y ejecutados en Google Colab utilizando integración con Google Drive para persistencia de datos. Las rutas utilizadas corresponden al entorno de trabajo personal en Colab/Drive.
 
 # Práctica Final NLP
 
